@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Coding Bits]]></title>
+  <link href="http://jonathanpeterwu.github.io/atom.xml" rel="self"/>
+  <link href="http://jonathanpeterwu.github.io/"/>
+  <updated>2014-02-02T20:23:45-08:00</updated>
+  <id>http://jonathanpeterwu.github.io/</id>
+  <author>
+    <name><![CDATA[Johnny Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Ruby Singletons]]></title>
+    <link href="http://jonathanpeterwu.github.io/blog/2014/02/02/learning-ruby-singletons/"/>
+    <updated>2014-02-02T19:32:35-08:00</updated>
+    <id>http://jonathanpeterwu.github.io/blog/2014/02/02/learning-ruby-singletons</id>
+    <content type="html"><![CDATA[<p>Using and understanding the power behind singletons</p>
+]]></content>
+  </entry>
+  
+</feed>
